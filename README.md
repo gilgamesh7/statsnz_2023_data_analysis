@@ -4,3 +4,4 @@ Analysis of Statistics New Zealand in 2023 . URL for Adults convicted in court b
 # Install
 - Install the usual Python venv and ipykernel (if you open in VS Code, it wil install once you select t\your venv as the kernel)
 - pip install -r requirements.txt
+- Unzip data file so code can use it, on laptop
